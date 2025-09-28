@@ -16,7 +16,7 @@ Atualmente participo de um projeto colaborativo para o **TJR - Torneio Juvenil d
 ## Projetos Desenvolvidos
 
 ### VendasPro
-Marketplace desenvolvido em Laravel com foco em produtos em destaque e funcionalidades básicas de e-commerce. Projeto em estágio de MVP para estudo e aprendizado.
+Marketplace desenvolvido em Laravel com funcionalidades básicas de e-commerce. Projeto em estágio de MVP para estudo e aprendizado.
 
 **Tecnologias:** PHP 8.x, Laravel 10.x, MySQL, Blade Templates, Bootstrap 5, Composer  
 
@@ -32,8 +32,6 @@ Sistema completo (backend e frontend) desenvolvido para gerenciar ocorrências e
 - Autenticação e controle de acesso 
 - API REST para comunicação entre backend e frontend  
 - Buscar clientes rapidamente  
-- Transferir ocorrências para colegas experientes  
-- Visualizar métricas em tempo real  
 
 **Tecnologias:**  
 - Backend: Java 11, Spring Boot 2.7.18, SQL, Spring Security  
@@ -57,16 +55,3 @@ O objetivo foi automatizar ações preventivas de infraestrutura de TI no contex
 **Tecnologias:** Python
 
 - [Automação Preventiva](https://github.com/devfelipevitorino/automacao-preventiva)  
-
----
-
-### Sistema de PDV (Ponto de Venda)
-Sistema de Ponto de Venda desenvolvido em Java com JavaFX, SceneBuilder e SQL.
-
-**Funcionalidades:**  
-- Cadastro e gerenciamento de produtos  
-- Realização de vendas com controle de estoque  
-
-**Tecnologias:** Java, JavaFX, SceneBuilder, MySQL  
-
-- [Sistema de PDV](https://github.com/devfelipevitorino/javafx-pdv-app)  
