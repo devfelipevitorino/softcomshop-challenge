@@ -1,7 +1,7 @@
 # SoftcomShop Challenge
 
 ## Sobre Mim
-Meu nome é **Felipe Vitorino** e atualmente atuo como **suporte por chat**.  
+Meu nome é **Felipe Vitorino** e atuo como **suporte via chat**.  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho como foco as linguagens **PHP** e **Java**, mas também possuo conhecimento em **Python** e **JavaScript**, além de noções de **Git** e **Docker**.  
 
 Atualmente participo de um projeto colaborativo para o **TJR - Torneio Juvenil de Robótica**, no qual desenvolvemos um sistema interno para avaliação das equipes durante a competição.
