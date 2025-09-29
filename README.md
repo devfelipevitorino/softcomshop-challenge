@@ -18,7 +18,7 @@ Atualmente participo de um projeto colaborativo para o **TJR - Torneio Juvenil d
 ### VendasPro
 Marketplace desenvolvido em Laravel com funcionalidades básicas de e-commerce. Projeto em estágio de MVP para estudo e aprendizado.
 
-**Tecnologias:** PHP 8.x, Laravel 10.x, MySQL, Blade Templates, Bootstrap 5, Composer  
+**Tecnologias:** PHP, Laravel, MySQL, Blade Templates, Bootstrap 5, Composer  
 
 - [VendasPro](https://github.com/devfelipevitorino/mvp-vendas-pro) 
 
