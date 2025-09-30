@@ -15,6 +15,18 @@ Atualmente participo de um projeto colaborativo para o **TJR - Torneio Juvenil d
 
 ## Projetos Desenvolvidos
 
+### Softcom Challenge
+
+**Challenge Backend em JavaScript:** API REST construída com Node.js, Express e Sequelize, utilizando MySQL, JWT para autenticação e BcryptJS para segurança das senhas. 
+- [Desafio Backend Javascript](https://github.com/devfelipevitorino/softcom-backend-challenge)
+
+**Challenge Backend em PHP:** API REST desenvolvida em PHP com PDO e MySQL, autenticação JWT e senha criptografada com password_hash.
+- [Desafio Backend PHP](https://github.com/devfelipevitorino/softcom-php-challenge) 
+
+Ambos os projetos contemplam funcionalidades completas de cadastro, autenticação, gestão de produtos e vendas, e uso de tokens JWT para segurança.
+
+---
+
 ### VendasPro
 Marketplace desenvolvido em Laravel com funcionalidades básicas de e-commerce. Projeto em estágio de MVP para estudo e aprendizado.
 
